@@ -1,7 +1,7 @@
 # 💫 About Me:
 Aspiring MERN stack developer.<br>Django and PHP developer.<br>Pursuing MCA from SPU, Anand.<br>Trainee at eSparkBiz Pvt Ltd.
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar24081" alt="tushar" /></a> </p>
 ## 🌐 Socials:
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tushahar) 
 

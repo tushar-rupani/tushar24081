@@ -1,13 +1,7 @@
-# 💫 About Me:
-Aspiring MERN stack developer.<br>Django and PHP developer.<br>Pursuing MCA from SPU, Anand.<br>Trainee at eSparkBiz Pvt Ltd.
+# - Aspiring MERN Stack Developer.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar24081" alt="tushar" /></a> </p>
-
-## 🌐 Socials:
-<a href="https://twitter.com/tushahar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425119-c161bddb-3288-44dd-b835-2386760c058b.png" alt="twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/tushar-rupani-0a594b1a0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425162-21bc0f6f-f860-48a8-8fbb-fe53b4ae7240.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://hashnode.com/@tushar2408" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.svarun.dev%2Fcommon%2Fhashnode%2Ficon.png&f=1&nofb=1&ipt=8c15a2cc22391ff5f4e80ecdcf52f4f1a9efa8da2ecfee3b935901d743e12fbc&ipo=images" alt="dev.to" height="40" width="40" /></a>
 
 
 # 📊 GitHub Stats:
